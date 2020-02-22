@@ -14,3 +14,7 @@
 - spring-data-jpa-reference-documentation.pdf
 - 软件开发常用词汇(北京尚学堂发布).pdf
 - 阿里巴巴Java开发手册（终极版）.pdf
+
+## github 资源
+
+ - [guanpengchn整理的资源](https://github.com/idongliming/awesome-books)
